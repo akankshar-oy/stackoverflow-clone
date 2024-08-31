@@ -13,4 +13,4 @@ router.get("/getallusers",getallusers)
 router.patch("/update/:id",auth,updateprofile)
 
 
-export default router 
+export default router
